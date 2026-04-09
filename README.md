@@ -48,3 +48,43 @@ OptionCharacterBest forACES (default)Filmic, contrasty S-curve, compressed highl
 Output files have no embedded ICC profile (same as source); they will display correctly in any sRGB viewer.
 Alpha channels are preserved if present.
 The tools do not modify the original files; originals are left untouched.
+
+
+
+# Before
+<img width="3440" height="1440" alt="screenshot_2026-04-02_003919" src="https://github.com/user-attachments/assets/2591412a-5618-4ff7-b65f-26b3dd882b73" />
+<img width="3440" height="1440" alt="screenshot_2026-04-02_003930" src="https://github.com/user-attachments/assets/395f1465-813f-4831-b819-505a78100cca" />
+<img width="3440" height="1440" alt="screenshot_2026-04-07_210350" src="https://github.com/user-attachments/assets/5f43d586-3c40-45f9-b778-ef5fd1784ce5" />
+<img width="3440" height="1440" alt="screenshot_2026-04-07_210146" src="https://github.com/user-attachments/assets/58eefc6a-5296-4f74-a535-3bd6cbc4f953" />
+
+
+# After
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
